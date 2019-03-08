@@ -11,7 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -21,4 +21,35 @@ html {
 body {
   margin: 0;
   padding: 0;
+}
+
+.starfruit {
+  font-family: "Gravitas One", cursive;
+}
+
+.watermelon {
+  font-family: "Rammetto One", cursive;
+}
+
+.persimmon {
+  font-family: "Comfortaa", cursive;
+}
+
+.water {
+  background-color: #e97065;
+  margin-bottom: 0;
+}
+
+.star {
+  background-color: #fbd25e;
+  margin-bottom: 0;
+}
+
+.per {
+  background-color: #e86033;
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-bottom: 0;
 }
