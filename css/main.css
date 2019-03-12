@@ -20,7 +20,6 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
 }
 
 .starfruit {
@@ -56,4 +55,16 @@ h2 {
 
 article {
   margin-top: .65rem;
+}
+
+@media only screen and (min-width: 25em) {
+
+}
+
+@media only screen and (min-width: 38em) {
+
+}
+
+@media only screen and (min-width: 60em) {
+
 }
